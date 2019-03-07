@@ -1,15 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on codearoni.io</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on codearoni.io</description>
+    <title>codearoni.io</title>
+    <link>/</link>
+    <description>Recent content on codearoni.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019 Jake Brown</copyright>
+    <lastBuildDate>Tue, 05 Mar 2019 21:22:19 -0600</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/cv/</link>
+      <pubDate>Tue, 05 Mar 2019 21:22:19 -0600</pubDate>
+      
+      <guid>/cv/</guid>
+      <description> PDF
+ </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Tue, 05 Mar 2019 21:09:16 -0600</pubDate>
+      
+      <guid>/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Tue, 05 Mar 2019 21:04:36 -0600</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>zxp-provider - node.js provider for Adobe&amp;rsquo;s cryptographic extension signer.
+zxp-sign-cmd - node.js API wrapper for Adobe&amp;rsquo;s ZxpSignCmd</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 05 Mar 2019 20:16:06 -0600</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I write software for a living. I have a penchant for Javascript and Typescript, though I have experience with a breadth of technologies.
+Languages: JS TS Rust Go Java
+Platforms: node.js deno.land docker unity
+Frameworks: angular vue expo hapi webpack babel eslint mocha
+Other: pgsql webgl redis extendscript
+ This website is made with hugo and love unicorn blood.
+ </description>
+    </item>
     
   </channel>
 </rss>
